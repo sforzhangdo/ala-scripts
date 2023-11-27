@@ -37,4 +37,11 @@ appropriate position for each frame. The roll can be keyed to be on or off.
 
 https://github.com/sforzhangdo/ala-scripts/assets/126320507/f5742064-223c-4e92-bf21-7771d7bd6cce
 
+## Blender
+### Modifier Presets
+A tool that I expanded on from Studio 2 in my free time. It allows users to load and save sets of modifiers, using a JSON file system.
+
+**Demo:**
+
+https://github.com/sforzhangdo/ala-scripts/assets/126320507/d2ea9abf-d300-456c-8eef-9ca41f3ab5e4
 
